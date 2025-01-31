@@ -5,9 +5,6 @@ description = "Descrição do projeto"
 authors = ["Seu Nome <seu@email.com>"]
 
 readme = "README.md"
-requires-python = ">=3.12"
-
-# Define explicitamente o diretório do pacote principal
 packages = [{ include = "projeto_ml" }]  # Certifique-se de que essa pasta existe
 
 [tool.poetry.dependencies]
