@@ -2,15 +2,7 @@
 
 Acessar o link https://projeto-ml-pizza.streamlit.app/
 
-📌 Principais bibliotecas para importar no app.py
-
-requests                  # Para fazer requisições HTTP
-pandas                    # Para manipulação de dados
-matplotlib                # Para visualização de dados
-seaborn                   # Gráficos estatísticos
-joblib                    # Para salvar e carregar modelos
-sklearn                   # Biblioteca de aprendizado de máquina
-streamlit                 # Para criar o app web
+📌 Principais bibliotecas : requests, pandas, matplotlib, seaborn, joblib, sklearn, streamlit
 
 📌 Arquivos essenciais para o repositório
 Certifique-se de que estes arquivos estão no GitHub:
